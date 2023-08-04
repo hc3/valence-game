@@ -40,15 +40,18 @@ class MoleculeCard {
 }
 ```
 ### 48 Element Cards.
-* 12 Oxygen
-* 10 Hydrogen
-* 3 Carbon
-* 6 Sodium
-* 4 Fluorine
-* 8 Chlorine
-* 2 Potassium
-* 2 Calcium
-* 1 Helium
+| Element     | Valence | Atomic Number | Symbol Atomic | Quantity |
+|-------------|--------|---------------|--------|------------|
+| Oxygen      | -2     | 8             | O      | 12         |
+| Hydrogen    | +1     | 1             | H      | 10         |
+| Carbon      | +4     | 6             | C      | 3          |
+| Sodium      | +1     | 11            | Na     | 6          |
+| Fluorine    | -1     | 9             | F      | 4          |
+| Chlorine    | -1     | 17            | Cl     | 8          |
+| Potassium   | +1     | 19            | K      | 2          |
+| Calcium     | +2     | 20            | Ca     | 2          |
+| Helium      | 2      | 2             | He     | 1          |
+
 
 
 ### 46 Molecule Cards.
